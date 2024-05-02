@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShasinRegmi
-- 👀 I’m interested in Python
+- 👀 I’m interested in Womens
 - 🌱 I’m currently learning Django
 
 
