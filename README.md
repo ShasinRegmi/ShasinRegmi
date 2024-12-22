@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **a interactive game using godot engine**
 
-- 🌱 I’m currently learning **Django**
-
 - 📫 How to reach me **021bscit035@sxc.edu.np**
 
 <h3 align="left">Connect with me:</h3>
