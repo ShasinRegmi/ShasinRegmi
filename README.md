@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shasin Regmi</h1>
-<h3 align="center">A passionate developer from Nepal</h3>
 
 
 - 📫 How to reach me **021bscit035@sxc.edu.np**
